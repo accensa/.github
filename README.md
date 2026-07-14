@@ -6,4 +6,4 @@ and revenue reconciliation for services that sell to AI agents.
 - [accensa-contracts](https://github.com/accensa/accensa-contracts) — Soroban contracts
 - [accensa-app](https://github.com/accensa/accensa-app) — indexer, dashboard, SDK
 
-Status: pre-release, building toward Drips Wave submission.
+Status: pre-release, building toward v1.0 release.

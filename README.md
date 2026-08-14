@@ -1,11 +1,7 @@
-# Accensa
+# accensa/.github
 
-Merchant back-office for x402 sellers on Stellar — receipts, refunds,
-and revenue reconciliation for services that sell to AI agents.
+Organization-level defaults for the [Accensa](https://github.com/accensa) org.
 
-**[Live Dashboard](https://accensa-dashboard.vercel.app)** • **[Documentation](https://accensa-docs.vercel.app)**
-
-- [accensa-contracts](https://github.com/accensa/accensa-contracts) — Soroban contracts
-- [accensa-app](https://github.com/accensa/accensa-app) — indexer, dashboard, SDK
-
-Status: pre-release, building toward v1.0 release.
+The organization profile shown on <https://github.com/accensa> is rendered from
+[`profile/README.md`](profile/README.md) — GitHub only reads the profile from that
+path, so edit it there rather than editing this file.
